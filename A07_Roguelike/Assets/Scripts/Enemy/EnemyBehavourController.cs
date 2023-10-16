@@ -7,7 +7,6 @@ public class EnemyBehaviourController : MonoBehaviour
     public IBehaviour CurrentBehaviour { get; set; }
     
     [SerializeField] public List<IBehaviour> BehavioursList = new List<IBehaviour>();
-    [SerializeField] public List<EnemyBehaviour> BehavioursList2 = new List<EnemyBehaviour>();
 
     private void Start()
     {
