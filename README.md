@@ -39,7 +39,12 @@ Framework : .NET 6.0
    - LongAttackDistance
    - Move
    - Rush
+   - BossAroundAttack
+   - BossAroundSafe
+   - BossContinuosAttack 
 
 ScriptableObject를 활용해서 데이터를 관리했으면 더 깔끔하게 각 기능들을 몬스터 별로 구현할 수 있었다고 생각합니다.
+
+기능 구현에만 신경을 쓰다가 팀 프로젝트인 전체적인 게임에 신경을 많이 못쓴 부분이 아쉽습니다.
 
      
