@@ -10,6 +10,15 @@
 
 - 23.09.25 ~ 23.10.04
 
+# Member
+
+- 김진성 (팀장) : https://github.com/GYALLERHORN
+- 채이환 (팀원) : https://github.com/Hwan007
+- 송명근 (팀원) : https://github.com/audrms6494
+- 김광수 (팀원) : https://github.com/kksoo0131
+
+
+
 ## Development Environment
 
 Language : C#
@@ -26,7 +35,7 @@ Framework : .NET 6.0
    
    - EnemyBehaviour [Wiki](https://github.com/kksoo0131/A07_RoguelikeProject/wiki/EnemyBehaviour)
    - EnemyBehaviourController [Wiki](https://github.com/kksoo0131/A07_RoguelikeProject/wiki/EnemyBehaviourController)
-   0- EnemyManager [Wiki](https://github.com/kksoo0131/A07_RoguelikeProject/wiki/EnemyManager)
+   - EnemyManager [Wiki](https://github.com/kksoo0131/A07_RoguelikeProject/wiki/EnemyManager)
   
 2. 몬스터들이 사용할 각 기능 (공격, 이동, 스킬)들을 구현합니다.
 
