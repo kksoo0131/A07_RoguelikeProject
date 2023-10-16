@@ -40,17 +40,17 @@ Framework : .NET 6.0
 2. 몬스터들이 사용할 각 기능 (공격, 이동, 스킬)들을 구현합니다.
 
    - IBehaviour [Wiki](https://github.com/kksoo0131/A07_RoguelikeProject/wiki/IBeviour)
-   - Bomb
-   - CollisionAttack
-   - Dead
-   - KeepDistance
-   - KnockBack
-   - LongAttackDistance
-   - Move
-   - Rush
-   - BossAroundAttack
-   - BossAroundSafe
-   - BossContinuosAttack 
+   - Bomb [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/Bomb.cs)
+   - CollisionAttack [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/CollisionAttack.cs)
+   - Dead [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/Dead.cs)
+   - KeepDistance [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/KeepDistance.cs)
+   - KnockBack [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/KnockBack.cs)
+   - LongAttackDistance [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/LongDistanceAttack.cs)
+   - Move [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/Move.cs)
+   - Rush [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/Rush.cs)
+   - BossAroundAttack [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/Boss/BossAroundAttack.cs)
+   - BossAroundSafe [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/Boss/BossAroundSafe.cs)
+   - BossContinuosAttack [Code](https://github.com/kksoo0131/A07_RoguelikeProject/blob/main/A07_Roguelike/Assets/Scripts/Enemy/Strategy/Boss/BossContinuosAttack.cs)
 
 ScriptableObject를 활용해서 데이터를 관리했으면 더 깔끔하게 각 기능들을 몬스터 별로 구현할 수 있었다고 생각합니다.
 
