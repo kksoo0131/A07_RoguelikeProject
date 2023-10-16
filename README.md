@@ -26,7 +26,7 @@ Framework : .NET 6.0
    
    - EnemyBehaviour [Wiki](https://github.com/kksoo0131/A07_RoguelikeProject/wiki/EnemyBehaviour)
    - EnemyBehaviourController [Wiki](https://github.com/kksoo0131/A07_RoguelikeProject/wiki/EnemyBehaviourController)
-   - EnemyManager
+   0- EnemyManager [Wiki](https://github.com/kksoo0131/A07_RoguelikeProject/wiki/EnemyManager)
   
 2. 몬스터들이 사용할 각 기능 (공격, 이동, 스킬)들을 구현합니다.
 
