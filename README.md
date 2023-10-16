@@ -30,7 +30,7 @@ Framework : .NET 6.0
   
 2. 몬스터들이 사용할 각 기능 (공격, 이동, 스킬)들을 구현합니다.
 
-   - IBehaviour
+   - IBehaviour [Wiki](https://github.com/kksoo0131/A07_RoguelikeProject/wiki/IBeviour)
    - Bomb
    - CollisionAttack
    - Dead
